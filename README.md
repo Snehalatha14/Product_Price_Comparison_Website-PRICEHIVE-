@@ -7,8 +7,7 @@ PriceHive is a product price comparison website designed to help users find the 
 - View prices and availability for each product.
 - Compare prices from different stores.
 - User-friendly interface for easy navigation.
-
-## usage
+  
 ## Usage
 1. Set up a local server environment using XAMPP:
    - Download and install XAMPP from the official website.
