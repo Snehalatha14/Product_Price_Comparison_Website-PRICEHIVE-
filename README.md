@@ -29,6 +29,14 @@ PriceHive is a product price comparison website designed to help users find the 
 
 8. Open your web browser and navigate to the PriceHive website by entering the local server URL: http://localhost/pricehive
 
+9. Use the search bar on the PriceHive website to search for the product you're interested in.
+
+10. Browse through the search results to compare prices from different online stores.
+
+11. Click on a product to view more details, including availability and shipping information.
+
+12. Make an informed decision based on the price and availability information provided.
+
 ## Technologies Used
 - HTML: Markup language for structuring the website content.
 - CSS: Styling language for designing the website layout and appearance.
